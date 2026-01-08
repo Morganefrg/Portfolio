@@ -2,22 +2,17 @@
 
 ## Présentation
 
-Je m’appelle **Morgane**. J’ai un parcours international orienté **business development** et **recrutement**, avec plusieurs années d’expérience dans des **startups au Royaume-Uni**.  
-Je me réoriente aujourd’hui vers le **développement**, avec une spécialisation en **intelligence artificielle**, afin de concevoir des solutions techniques, automatiser des processus et répondre à des problématiques concrètes en entreprise.
+Je m’appelle Morgane. J’ai un parcours international orienté business development et recrutement, avec plusieurs années d’expérience dans des startups au Royaume-Uni.  
+Je suis actuellement en reconversion vers le développement, avec une spécialisation en intelligence artificielle, afin de travailler sur des solutions techniques concrètes et des projets d’automatisation.
 
 ---
 
 ## Parcours & Contexte
 
-Après **4 ans au UK**, j’ai travaillé pour des startups anglaises sur des rôles mêlant **stratégie commerciale**, **recrutement de profils seniors et niches** et **gestion de projets**.  
-Ces expériences m’ont permis d’acquérir une **vision business**, une forte capacité d’analyse et une maturité professionnelle.
+J’ai vécu 4 ans au Royaume-Uni où j’ai travaillé pour des startups sur des sujets de développement commercial et de recrutement de profils seniors et spécialisés.  
+Ces expériences m’ont permis d’acquérir une bonne compréhension des enjeux business, une maturité professionnelle et une capacité à m’adapter rapidement à différents environnements.
 
-J’ai choisi la formation **ISEN x Simplon** car elle combine :
-- théorie et pratique immédiate,
-- travail sur des problématiques réelles via l’alternance,
-- spécialisation en **IA**, permettant d’innover sur de nouveaux projets,
-- travail en équipe et approche proche du monde professionnel,
-- un format intensif rendant rapidement opérationnel.
+J’ai choisi la formation ISEN x Simplon pour son approche très pratique, son format en alternance et sa spécialisation en IA. Le travail en équipe et les projets proches des problématiques réelles des entreprises correspondent à ce que je recherche pour monter en compétences rapidement et devenir opérationnelle.
 
 ---
 
@@ -26,73 +21,62 @@ J’ai choisi la formation **ISEN x Simplon** car elle combine :
 ### Langages & Outils
 
 - **Python**  
-  Utilisé pour le développement de scripts, l’automatisation de tâches, l’analyse de données et les projets orientés IA.
+  Utilisé pour l’automatisation, la logique algorithmique et les projets orientés données et IA.
 
 - **JavaScript**  
-  Utilisé pour comprendre la logique de programmation, manipuler des données et interagir avec des interfaces simples.
+  Utilisé pour comprendre la logique de programmation et manipuler des données ou des interfaces simples.
 
 - **HTML / CSS**  
-  Utilisés pour structurer et mettre en forme des pages web de base.
+  Utilisés pour structurer et mettre en forme des pages web.
 
 - **Git / GitHub**  
-  Utilisés pour la gestion de versions, le suivi des projets et la collaboration en équipe.
+  Utilisés pour le versioning du code, le suivi des projets et le travail collaboratif.
 
 - **ChatGPT**  
-  Utilisé comme outil d’aide à la réflexion, à la compréhension de concepts techniques et au prototypage.
+  Utilisé comme support de compréhension, de recherche et d’aide au prototypage.
 
-> Niveau actuel : **débutante**, avec une progression continue via des projets pratiques.
+Niveau actuel : débutante, avec une progression basée sur des projets pratiques (avec Python actuellement).
 
 ---
 
-## Projet & Expériences Marquantes
+## Expériences & Projets Marquants
 
 ### Expériences Professionnelles
 
-Même si mon parcours initial n’est pas technique, il constitue un **atout fort** pour aborder des projets de développement et d’IA avec une vision orientée **besoin métier**.
+Même si mon parcours initial n’est pas technique, il est directement utile pour aborder des projets de développement avec une vision orientée besoins métier.
 
-#### Business Development
-- Signature de comptes stratégiques et entreprises reconnues
+**Business development**
+- Signature de comptes stratégiques
 - Analyse des problématiques clients
-- Adaptation du discours selon les priorités business
-- Négociation et gestion de relations commerciales complexes
+- Adaptation du discours selon les interlocuteurs
+- Négociation commerciale
 
-#### Recrutement de profils seniors & niches
-- Réalisation de mappings marchés
+**Recrutement de profils seniors et niches**
+- Mappings marchés
 - Identification et approche de profils rares
-- Accompagnement complet des candidats et des entreprises
-- Négociation finale et gestion de la relation tripartite
+- Accompagnement des candidats et des entreprises
+- Négociation en fin de process
 
-Ces expériences m’ont permis de développer :
-- une forte capacité d’analyse,
-- la gestion de projets,
-- la communication et la pédagogie,
-- une posture de force de proposition,
-- un **anglais bilingue**.
+Ces expériences m’ont permis de développer des compétences en communication, gestion de projet, analyse et prise d’initiative, ainsi qu’un anglais bilingue.
 
 ---
 
 ## Expérience Complémentaire
 
-J’ai obtenu toutes mes **certifications en plongée sous-marine** et je suis devenue **instructrice de plongée en Malaisie**.  
-Cette expérience démontre ma capacité à apprendre des compétences techniques exigeantes, à transmettre un savoir et à évoluer dans des environnements internationaux.
+En parallèle, j’ai obtenu toutes mes certifications en plongée sous-marine et je suis devenue instructrice en Malaisie.  
+Cette expérience, bien que hors tech, reflète ma capacité à apprendre des compétences techniques exigeantes, à transmettre et à évoluer dans des contextes internationaux.
 
 ---
 
 ## Objectif
 
-Mon objectif est de **combiner mes compétences business et techniques** afin de :
-- développer des solutions basées sur l’IA,
-- automatiser des processus métiers,
-- contribuer à des projets innovants en entreprise,
-- évoluer durablement dans le secteur de la tech.
+Mon objectif est de combiner mes compétences business et techniques pour travailler sur des projets en intelligence artificielle, d’automatisation et d’innovation en entreprise.
 
 ---
 
 ## Technologies utilisées dans ce dépôt
 
-- Python : scripts, automatisation, projets IA
-- JavaScript : logique de programmation
-- HTML / CSS : structure et mise en forme
-- Git / GitHub : versioning et gestion de projet
-
-
+- Python : automatisation, scripts, projets IA  
+- JavaScript : logique de programmation  
+- HTML / CSS : structure et mise en forme  
+- Git / GitHub : gestion de versions et projets
