@@ -67,10 +67,3 @@ Cette expérience, bien que hors tech, reflète ma capacité à apprendre des co
 
 Mon objectif est de combiner mes compétences business et techniques pour travailler sur des projets en intelligence artificielle, d’automatisation et d’innovation en entreprise.
 
-
-## Technologies utilisées dans ce dépôt
-
-- Python : automatisation, scripts, projets IA  
-- JavaScript : logique de programmation  
-- HTML / CSS : structure et mise en forme  
-- Git / GitHub : gestion de versions et projets
