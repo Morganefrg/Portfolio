@@ -13,9 +13,9 @@ Mon background professionnel me semble être l'élément de mon parcours le plus
 Cela n'a pas de lien direct avec l'IA ou développement mais j'ai passé toutes mes certifications en plongée sous marine et je suis devenue instructrice de plongée quand j'étais en Malaisie.
 Je travaille actuellement sur des projets avec Python.
 
-J'ai déjà utilisé Html,CSS,Javascript, Python.
+J'ai déjà utilisé Html,CSS,Javascript, Python, ChatGPT.
 
-Je maitrise le mieux Javascript/Python (débutante.
+Je maitrise le mieux Javascript/Python (débutante).
 
 
 Mes projets les plus marquants ont été de faire signer des entreprises renommées dans mes anciens jobs ou recruter des profils niches seniors.
