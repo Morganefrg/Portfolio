@@ -5,7 +5,6 @@
 Je m’appelle Morgane. J’ai un parcours international orienté business development et recrutement, avec plusieurs années d’expérience dans des startups au Royaume-Uni.  
 Je suis actuellement en reconversion vers le développement, avec une spécialisation en intelligence artificielle, afin de travailler sur des solutions techniques concrètes et des projets d’automatisation.
 
----
 
 ## Parcours & Contexte
 
@@ -14,7 +13,6 @@ Ces expériences m’ont permis d’acquérir une bonne compréhension des enjeu
 
 J’ai choisi la formation ISEN x Simplon pour son approche très pratique, son format en alternance et sa spécialisation en IA. Le travail en équipe et les projets proches des problématiques réelles des entreprises correspondent à ce que je recherche pour monter en compétences rapidement et devenir opérationnelle.
 
----
 
 ## Compétences Techniques
 
@@ -37,7 +35,6 @@ J’ai choisi la formation ISEN x Simplon pour son approche très pratique, son 
 
 Niveau actuel : débutante, avec une progression basée sur des projets pratiques (avec Python actuellement).
 
----
 
 ## Expériences & Projets Marquants
 
@@ -59,20 +56,17 @@ Même si mon parcours initial n’est pas technique, il est directement utile po
 
 Ces expériences m’ont permis de développer des compétences en communication, gestion de projet, analyse et prise d’initiative, ainsi qu’un anglais bilingue.
 
----
 
 ## Expérience Complémentaire
 
 En parallèle, j’ai obtenu toutes mes certifications en plongée sous-marine et je suis devenue instructrice en Malaisie.  
 Cette expérience, bien que hors tech, reflète ma capacité à apprendre des compétences techniques exigeantes, à transmettre et à évoluer dans des contextes internationaux.
 
----
 
 ## Objectif
 
 Mon objectif est de combiner mes compétences business et techniques pour travailler sur des projets en intelligence artificielle, d’automatisation et d’innovation en entreprise.
 
----
 
 ## Technologies utilisées dans ce dépôt
 
