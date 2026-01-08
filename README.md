@@ -1,27 +1,98 @@
-# Portfolio
-Isen - Portfolio 
+# Portfolio – Morgane
 
-Je m'appelle Morgane, j'ai un parcours très international, orienté business development et recrutement; J'ai vécu au UK pendant 4 ans et j'ai travaillé pour des startups anglaises. J'ai décidé de me réorienter dans le developpement avec une spécialisation IA, car j'aime les nouvelles technologies, l'innovation, analyser et répondre à des problématiques spécifiques et créer de nouvelles automatisations consacréer du temps à d'autres taches.
+## Présentation
 
+Je m’appelle **Morgane**. J’ai un parcours international orienté **business development** et **recrutement**, avec plusieurs années d’expérience dans des **startups au Royaume-Uni**.  
+Je me réoriente aujourd’hui vers le **développement**, avec une spécialisation en **intelligence artificielle**, afin de concevoir des solutions techniques, automatiser des processus et répondre à des problématiques concrètes en entreprise.
 
-Car cette formation mêle la pratique directement à la théorie. L'alternance propose de faire face directement aux problématiques concrètes des entreprises. Cette spécifité IA permet d'etre pré-curseur dans ces technologies, d'innover directement sur de nouveaux projets.
-Le format Isen x Simplon permet une collaboration efficace pour réaliser des projets en équipe et nous préparer aux projets à venir en entreprise.
-Le format formation présentielle sur quelques mois nous rend directement opérationnel pour intégrer une entreprise.
+---
 
-Mon background professionnel me semble être l'élément de mon parcours le plus pertinent car j'ai déjà une vision business sur de nombreux sujets, une maturité professionnelle pouvant apporter sur certaines problématiques (communication, gestion de projets, être force de proposition, anglais bilingue etc).
+## Parcours & Contexte
 
-Cela n'a pas de lien direct avec l'IA ou développement mais j'ai passé toutes mes certifications en plongée sous marine et je suis devenue instructrice de plongée quand j'étais en Malaisie.
-Je travaille actuellement sur des projets avec Python.
+Après **4 ans au UK**, j’ai travaillé pour des startups anglaises sur des rôles mêlant **stratégie commerciale**, **recrutement de profils seniors et niches** et **gestion de projets**.  
+Ces expériences m’ont permis d’acquérir une **vision business**, une forte capacité d’analyse et une maturité professionnelle.
 
-J'ai déjà utilisé Html,CSS,Javascript, Python, ChatGPT.
+J’ai choisi la formation **ISEN x Simplon** car elle combine :
+- théorie et pratique immédiate,
+- travail sur des problématiques réelles via l’alternance,
+- spécialisation en **IA**, permettant d’innover sur de nouveaux projets,
+- travail en équipe et approche proche du monde professionnel,
+- un format intensif rendant rapidement opérationnel.
 
-Je maitrise le mieux Javascript/Python (débutante).
+---
 
+## Compétences Techniques
 
-Mes projets les plus marquants ont été de faire signer des entreprises renommées dans mes anciens jobs ou recruter des profils niches seniors.
+### Langages & Outils
 
-Pour faire signer de grandes entreprises, j'ai du comprendre les problématiques de ces clients, en fonction de la personne à qui je m'adressais, les convaincre avec les bons arguments en fonction de leurs priorités, maitriser les négociations.
+- **Python**  
+  Utilisé pour le développement de scripts, l’automatisation de tâches, l’analyse de données et les projets orientés IA.
 
-Pour recruter des candidats niches seniors, j'ai du faire des mappings marchés; comprendre où se trouvent ces candidats, comment attirer leur attention et les convaincre de postuler à un certain rôle, les accompagner sur tout le process, gérer la relation avec eux, négocier en fin de process en tant qu'intermédiaire avec les entreprises et faire signer les candidats. 
+- **JavaScript**  
+  Utilisé pour comprendre la logique de programmation, manipuler des données et interagir avec des interfaces simples.
+
+- **HTML / CSS**  
+  Utilisés pour structurer et mettre en forme des pages web de base.
+
+- **Git / GitHub**  
+  Utilisés pour la gestion de versions, le suivi des projets et la collaboration en équipe.
+
+- **ChatGPT**  
+  Utilisé comme outil d’aide à la réflexion, à la compréhension de concepts techniques et au prototypage.
+
+> Niveau actuel : **débutante**, avec une progression continue via des projets pratiques.
+
+---
+
+## Projet & Expériences Marquantes
+
+### Expériences Professionnelles
+
+Même si mon parcours initial n’est pas technique, il constitue un **atout fort** pour aborder des projets de développement et d’IA avec une vision orientée **besoin métier**.
+
+#### Business Development
+- Signature de comptes stratégiques et entreprises reconnues
+- Analyse des problématiques clients
+- Adaptation du discours selon les priorités business
+- Négociation et gestion de relations commerciales complexes
+
+#### Recrutement de profils seniors & niches
+- Réalisation de mappings marchés
+- Identification et approche de profils rares
+- Accompagnement complet des candidats et des entreprises
+- Négociation finale et gestion de la relation tripartite
+
+Ces expériences m’ont permis de développer :
+- une forte capacité d’analyse,
+- la gestion de projets,
+- la communication et la pédagogie,
+- une posture de force de proposition,
+- un **anglais bilingue**.
+
+---
+
+## Expérience Complémentaire
+
+J’ai obtenu toutes mes **certifications en plongée sous-marine** et je suis devenue **instructrice de plongée en Malaisie**.  
+Cette expérience démontre ma capacité à apprendre des compétences techniques exigeantes, à transmettre un savoir et à évoluer dans des environnements internationaux.
+
+---
+
+## Objectif
+
+Mon objectif est de **combiner mes compétences business et techniques** afin de :
+- développer des solutions basées sur l’IA,
+- automatiser des processus métiers,
+- contribuer à des projets innovants en entreprise,
+- évoluer durablement dans le secteur de la tech.
+
+---
+
+## Technologies utilisées dans ce dépôt
+
+- Python : scripts, automatisation, projets IA
+- JavaScript : logique de programmation
+- HTML / CSS : structure et mise en forme
+- Git / GitHub : versioning et gestion de projet
 
 
