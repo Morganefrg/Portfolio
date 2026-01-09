@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio – Morgane</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav>
+    <a href="#" class="nav-brand">Portfolio – Morgane</a>
+  </nav>
+
+  <header>
+    <h1>Portfolio – Morgane</h1>
+    <p>Développement & Intelligence Artificielle</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Présentation</h2>
+      <p>
+        Je m'appelle Morgane. J'ai un parcours international orienté business development et recrutement,
+        avec plusieurs années d'expérience dans des startups au Royaume-Uni.
+      </p>
+      <p>
+        Je suis actuellement en reconversion vers le développement, avec une spécialisation en intelligence artificielle,
+        afin de travailler sur des solutions techniques concrètes et des projets d'automatisation.
+      </p>
+    </section>
+
+    <section>
+      <h2>Parcours & Contexte</h2>
+      <p>
+        J'ai vécu 4 ans au Royaume-Uni où j'ai travaillé pour des startups sur des sujets de développement commercial
+        et de recrutement de profils seniors et spécialisés.
+      </p>
+      <p>
+        Ces expériences m'ont permis d'acquérir une bonne compréhension des enjeux business,
+        une maturité professionnelle et une capacité à m'adapter rapidement à différents environnements.
+      </p>
+      <p>
+        J'ai choisi la formation ISEN x Simplon pour son approche très pratique, son format en alternance
+        et sa spécialisation en IA. Le travail en équipe et les projets proches des problématiques réelles
+        des entreprises correspondent à ce que je recherche pour monter en compétences rapidement
+        et devenir opérationnelle.
+      </p>
+    </section>
+
+    <section>
+      <h2>Compétences Techniques</h2>
+
+      <h3>Langages & Outils</h3>
+
+  <!-- 1) Contrôle de filtre : l'utilisateur choisit une catégorie -->
+  <div class="skills-controls">
+    <label for="skillFilter">Filtrer :</label>
+
+    <!-- Le filtre change la liste affichée -->
+    <select id="skillFilter">
+      <option value="all">Toutes</option>
+      <option value="Langage">Langages</option>
+      <option value="Web">Web</option>
+      <option value="Outil">Outils</option>
+      <option value="IA">IA</option>
+    </select>
+
+    <!-- Zone de texte qui affiche l'état actuel du filtre -->
+    <p id="skillStatus"></p>
+  </div>
+
+  <!-- 2) Conteneur vide : JS va générer les <li> ici -->
+  <ul id="skillsList"></ul>
+
+  <p>
+    Niveau actuel : débutante, avec une progression basée sur des projets pratiques (actuellement en Python).
+  </p>
+</section>
+
+
+      <p>
+        Niveau actuel : débutante, avec une progression basée sur des projets pratiques (actuellement en Python).
+      </p>
+    </section>
+
+    <section>
+      <h2>Expériences & Projets Marquants</h2>
+
+      <h3>Expériences Professionnelles</h3>
+
+      <p>
+        Même si mon parcours initial n'est pas technique, il est directement utile pour aborder
+        des projets de développement avec une vision orientée besoins métier.
+      </p>
+
+      <h4>Business Development</h4>
+      <ul>
+        <li>Signature de comptes stratégiques</li>
+        <li>Analyse des problématiques clients</li>
+        <li>Adaptation du discours selon les interlocuteurs</li>
+        <li>Négociation commerciale</li>
+      </ul>
+
+      <h4>Recrutement de profils seniors et niches</h4>
+      <ul>
+        <li>Mappings marchés</li>
+        <li>Identification et approche de profils rares</li>
+        <li>Accompagnement des candidats et des entreprises</li>
+        <li>Négociation en fin de process</li>
+      </ul>
+
+      <p>
+        Ces expériences m'ont permis de développer des compétences en communication, gestion de projet,
+        analyse et prise d'initiative, ainsi qu'un anglais bilingue.
+      </p>
+    </section>
+
+    <section>
+      <h2>Expérience Complémentaire</h2>
+      <p>
+        En parallèle, j'ai obtenu toutes mes certifications en plongée sous-marine
+        et je suis devenue instructrice en Malaisie.
+      </p>
+      <p>
+        Cette expérience, bien que hors tech, reflète ma capacité à apprendre des compétences techniques exigeantes,
+        à transmettre et à évoluer dans des contextes internationaux.
+      </p>
+    </section>
+
+    <section>
+      <h2>Objectif</h2>
+      <p>
+        Mon objectif est de combiner mes compétences business et techniques pour travailler
+        sur des projets en intelligence artificielle, d'automatisation et d'innovation en entreprise.
+      </p>
+    </section>
+
+    <section class="projects-cta">
+      <div class="projects-cta-inner">
+        <h2>Projets IA</h2>
+        <p>
+          Découvrir mes projets en intelligence artificielle, data et automatisation.
+        </p>
+        <a href="projets.html" class="cta-projects">
+          Voir les projets IA
+        </a>
+      </div>
+    </section>
+
+    <section>
+  <h2>Contact</h2>
+
+    <form id="contactForm">
+    <label for="contactName">Nom</label>
+    <input type="text" id="contactName">
+
+    <label for="contactEmail">Email</label>
+    <input type="email" id="contactEmail">
+
+    <label for="contactMessage">Message</label>
+    <textarea id="contactMessage" rows="4"></textarea>
+
+    <button type="submit" class="cta-projects">Envoyer</button>
+
+    <p id="contactFeedback"></p>
+  </form>
+  </section>
+
+
+  </main>
+
+  <footer>
+    <p>© 2026 – Morgane</p>
+  </footer>
+
+<script src="javascript.js"></script>
+
+</body>
+</html>
